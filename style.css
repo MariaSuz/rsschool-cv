@@ -1,1 +1,15 @@
-style css
+.custom_h1 {
+    color: #1E90FF;
+}
+.custom_h2 {
+    color: #1E90FF;
+}
+.custom_body {
+    background-color: #E6E6FA;
+ 
+}
+
+.center_text {
+    text-align: center;
+
+}
