@@ -1,4 +1,4 @@
-# Mariia S
+# Mariia Suzdaltсeva
 ## Contacts
 * Discord:  @Discord
 * mail: example@mail.ru
